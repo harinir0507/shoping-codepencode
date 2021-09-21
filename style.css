@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding:0;
+  }
+  .navbar{
+   display: flex;
+      cursor: pointer;
+  width: px;
+    height: 25px;
+    padding: 20px;
+    justify-content: space-between;
+    background: black;
+    color:white;
+  }
+  .btn-wrapped{
+    display : flex;
+    flex direction: column;
+  }
+  .btn-white{
+    background: white;
+    color: black;
+    box-sizing: border-box;
+    width: 200px;
+    border: 10px;
+  }
+  .btn-green{
+    border: 1px solid green;
+    padding:5px;
+    margin-left:10px;
+  }
+  .hello{
+    background: gainsboro;
+    width:px;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 180px;
+  }
+  .btn-blue{
+    background: blue;
+    color: white;
+    width: 100px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: 3px solid white;
+  }
+  .viewdetails{
+   display: flex;
+    flex direction: column;
+    margin-left: 180px;
+    margin-right:150px;
+    width:1000px;
+    background-color: white;
+  }
+  .viewfirstdetails{
+    cursor: pointer;
+    background: grey;
+      color: white;
+    width:100px;
+    margin-top: 10px;
+    border: 2px solid black;
+  }
+  .viewseconddetails{
+    cursor: pointer;
+    background: grey;
+      color: white;
+    width:100px;
+    margin-top: 10px;
+    border: 2px solid black;
+  }
+  .viewthirddetails{
+   cursor: pointer;
+    background: grey;
+      color: white;
+    width:100px;
+    margin-top: 10px;
+    border: 2px solid black; 
+  }
+  .copyright{
+  margin-top:20px;
+  }
+  

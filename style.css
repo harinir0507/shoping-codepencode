@@ -9,7 +9,7 @@
     width: px;
     height: 25px;
     padding: 20px;
-    justify-content: space-between;
+    justify-content: space-around;
     background: black;
     color: white;
 }
@@ -53,7 +53,7 @@
     display: flex;
     margin-left: 180px;
     margin-right: 150px;
-    width: 100px;
+    width: 1000px;
     background-color: white;
 }
 

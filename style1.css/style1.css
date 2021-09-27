@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.theme {
+    display: flex;
+    cursor: pointer;
+    width: px;
+    height: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.line {
+    margin-top: 10px;
+}
+
+.btn-blueviolet {
+    background: blueviolet;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.grap {
+    display: flex;
+    cursor: pointer;
+    width: px;
+    height: 25px;
+    padding: 2px;
+    justify-content: space-around;
+    background: blue;
+    color: white;
+}
+
+.btn-black {
+    background: black;
+    color: white;
+    padding: 3px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 80px;
+}
+
+.info {
+    display: flex;
+    cursor: pointer;
+    width: px;
+    height: 30px;
+    padding: 20px;
+    justify-content: space-left;
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+.lineinfo {
+    margin-left: 100px;
+}
+
+.blogzine {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    padding: 20px;
+}
+
+.btn-red {
+    background: red;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    width: 80px;
+}
+
+.trending {
+    display: flex;
+    background: aliceblue;
+    width: 1160px;
+    height: 35px;
+    margin-left: 100px;
+}
+
+.btn-blue {
+    background: rgb(85, 85, 88);
+    color: white;
+    height: 25px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    color: white;
+}
+
+.btn-blues {
+    background: blue;
+    height: 25px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
